@@ -15,9 +15,9 @@ TG频道群：https://t.me/py
 
 [rewrite_local]
 
-https:\/\/api\.(revenuecat|rc-backup)\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/eilotluchao/Quantumult-X/refs/heads/main/ycdz/mbddt.js?token=GHSAT0AAAAAADKUSW54OQ7QSMGTXYQQFZF22F4LCHQ
+https:\/\/api\.(revenuecat|rc-backup)\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/eilotluchao/Quantumult-X/refs/heads/main/ycdz/mbddt.js
 
-https:\/\/api\.(revenuecat|rc-backup)\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/eilotluchao/Quantumult-X/refs/heads/main/ycdz/mbddt.js?token=GHSAT0AAAAAADKUSW54OQ7QSMGTXYQQFZF22F4LCHQ
+https:\/\/api\.(revenuecat|rc-backup)\.com\/v1\/(subscribers|receipts) url script-response-header https://raw.githubusercontent.com/eilotluchao/Quantumult-X/refs/heads/main/ycdz/mbddt.js
 
 [mitm] 
 
